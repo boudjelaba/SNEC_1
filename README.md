@@ -11,6 +11,7 @@ https://www.electronicsforu.com/electronics-projects/setting-qt-software-on-rasp
 ---
 ## Code Master
 
+
 ```cpp
 //SPI MASTER (ARDUINO)
 //COMMUNICATION SPI ENTRE 2 ARDUINO 
@@ -72,10 +73,10 @@ void loop(void)
   }
   delay(1000);
 }
+```
 
-
-
-___
+---
+---
 
 ## Code Slave
 
